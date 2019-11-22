@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\user\desktop\ch5lab2\source\main.c(55): warning C4047: '<': 'void (__cdecl *)()' 與 'int' 間接取值的層級不同
+c:\users\user\desktop\ch5lab2\source\main.c(73): warning C4047: '>': 'void (__cdecl *)()' 與 'int' 間接取值的層級不同
+  Project1.vcxproj -> C:\Users\USER\Desktop\Ch5Lab2\Project1\x64\Debug\Project1.exe
